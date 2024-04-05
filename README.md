@@ -4,6 +4,9 @@ A collection of cool graphics materials.
 Point in triangle test:
 https://blackpawn.com/texts/pointinpoly/default.html
 
-Online math book for games: https://gamemath.com/book/
+Online math book for games, mostly mathematical concepts (applied): https://gamemath.com/book/
 
-Simple book for trig concepts: https://flexbooks.ck12.org/cbook/ck-12-trigonometry-concepts/section/5.15/primary/lesson/vector-subtraction-trig/
+Very simple book for trig concepts: https://flexbooks.ck12.org/cbook/ck-12-trigonometry-concepts/
+
+Really indepth book for building a 3D game engine from scratch: https://www.gameenginebook.com/
+ - Includes game architecture, file systems, 3D math, etc.
