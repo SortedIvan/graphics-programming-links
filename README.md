@@ -1,6 +1,10 @@
 # graphics-programming-links
 A collection of cool graphics materials.
 
+<h2>Courses</h2>
+
+https://people.computing.clemson.edu/~dhouse/courses/405/
+
 <h2> Books </h2>
 Online math book for games, mostly mathematical concepts (applied): https://gamemath.com/book/
 
@@ -18,9 +22,6 @@ https://textbooks.math.gatech.edu/ila/
 Point in triangle test:
 https://blackpawn.com/texts/pointinpoly/default.html
 
-<h2>Full courses</h2>
-
-https://people.computing.clemson.edu/~dhouse/courses/405/
 
 
 
