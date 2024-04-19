@@ -18,8 +18,9 @@ https://textbooks.math.gatech.edu/ila/
 Point in triangle test:
 https://blackpawn.com/texts/pointinpoly/default.html
 
+<h2>Full courses</h2>
 
-
+https://people.computing.clemson.edu/~dhouse/courses/405/
 
 
 
