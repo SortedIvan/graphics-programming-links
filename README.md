@@ -12,6 +12,8 @@ Very simple book for trig concepts: https://flexbooks.ck12.org/cbook/ck-12-trigo
 Really indepth book for building a 3D game engine from scratch: https://www.gameenginebook.com/
  - Includes game architecture, file systems, 3D math, etc.
 
+Guide for shaders: https://thebookofshaders.com/
+
 Core linear algebra concepts, recommended for anyone who has beginner/no math background. Really useful for creating a base of knowledge
 https://textbooks.math.gatech.edu/ila/
 
