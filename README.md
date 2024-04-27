@@ -19,23 +19,22 @@ https://textbooks.math.gatech.edu/ila/
 
 <h2> Graphics API's/Framworks </h2>
 
-https://learnopengl.com/
+OPENGL: https://learnopengl.com/
 
-https://vulkan-tutorial.com/
+VULKAN: https://vulkan-tutorial.com/
 
-https://docs.monogame.net/
+MONOGAME: https://docs.monogame.net/
 
-https://www.sfml-dev.org/documentation/2.6.1/
+SFML: https://www.sfml-dev.org/documentation/2.6.1/
 
 <h2>Free Courses</h2>
 
-https://people.computing.clemson.edu/~dhouse/courses/405/
+Computer graphics 405: https://people.computing.clemson.edu/~dhouse/courses/405/
 
 
 <h2>Applied math concepts</h2>
 
-Point in triangle test:
-https://blackpawn.com/texts/pointinpoly/default.html
+Point in triangle test: https://blackpawn.com/texts/pointinpoly/default.html
 
 
 
