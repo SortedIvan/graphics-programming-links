@@ -27,7 +27,9 @@ MONOGAME: https://docs.monogame.net/
 
 SFML: https://www.sfml-dev.org/documentation/2.6.1/
 
-<h2>Free Courses</h2>
+<h2>Free courses & guides</h2>
+
+Super simplified linear algebra for developers: http://blog.wolfire.com/2009/07/linear-algebra-for-game-developers-part-1/
 
 Computer graphics 405: https://people.computing.clemson.edu/~dhouse/courses/405/
 
