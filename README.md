@@ -1,7 +1,7 @@
 # graphics-programming-links
 A collection of useful (and free) graphics development materials.
 
-<h2> Books </h2>
+<h2> Books (free)</h2>
 
 Online book on interactive linear algebra: https://immersivemath.com/ila/index.html
 
@@ -17,15 +17,11 @@ Guide for shaders: https://thebookofshaders.com/
 Core linear algebra concepts, recommended for anyone who has beginner/no math background. Really useful for creating a base of knowledge
 https://textbooks.math.gatech.edu/ila/
 
-<h2> Graphics API's/Framworks </h2>
+<h2> Book titles (paid) </h2>
 
-OPENGL: https://learnopengl.com/
+Very good and in-depth guide to linear algebra, probably a bit too theoretical for complete beginners: <b>Introduction to Linear Algebra (Gilbert Strang, 5) </b>
 
-VULKAN: https://vulkan-tutorial.com/
-
-MONOGAME: https://docs.monogame.net/
-
-SFML: https://www.sfml-dev.org/documentation/2.6.1/
+Has all of the concepts needed for making 3D (and 2D) stuff: <b> Essential mathematics for games and interactive applications </b>
 
 <h2>Free courses & guides</h2>
 
