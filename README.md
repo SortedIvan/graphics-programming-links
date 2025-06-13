@@ -36,6 +36,7 @@ Falling sand simulator with shader effects for different particles: matrices, sh
 <h2>Applied math concepts</h2>
 Point in triangle test: https://blackpawn.com/texts/pointinpoly/default.html
 
-
+<h2>Nice little graphics examples</h2>
+https://natureofcode.com/oscillation/
 
 
